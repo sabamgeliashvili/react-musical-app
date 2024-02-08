@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-musical-app/static/css/main.0dd671bb.css",
+    "main.js": "/react-musical-app/static/js/main.c2479d61.js",
+    "static/media/beat7.mp3": "/react-musical-app/static/media/beat7.19c59c05b0d82b24f7aa.mp3",
+    "static/media/beat10.mp3": "/react-musical-app/static/media/beat10.c38117cb733c75982fcb.mp3",
+    "static/media/beat3.mp3": "/react-musical-app/static/media/beat3.75eaa6cc396fb7663861.mp3",
+    "static/media/beat9.mp3": "/react-musical-app/static/media/beat9.efed38c03585ae83c723.mp3",
+    "static/media/beat6.mp3": "/react-musical-app/static/media/beat6.aa17ded80153426d52dc.mp3",
+    "static/media/beat4.mp3": "/react-musical-app/static/media/beat4.f63e0e1c4f19c82d2548.mp3",
+    "static/media/beat8.mp3": "/react-musical-app/static/media/beat8.3ccaf08f379cd65893a0.mp3",
+    "static/media/beat5.mp3": "/react-musical-app/static/media/beat5.5961ca7a3fc9a1fb6031.mp3",
+    "static/media/beat2.mp3": "/react-musical-app/static/media/beat2.6bac9e6e827d4fd509f1.mp3",
+    "static/media/beat1.mp3": "/react-musical-app/static/media/beat1.de4a9ef0f2c863d16f51.mp3",
+    "index.html": "/react-musical-app/index.html",
+    "main.0dd671bb.css.map": "/react-musical-app/static/css/main.0dd671bb.css.map",
+    "main.c2479d61.js.map": "/react-musical-app/static/js/main.c2479d61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0dd671bb.css",
+    "static/js/main.c2479d61.js"
+  ]
+}
